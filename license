@@ -1,0 +1,112 @@
+AI Moder Beta Source-Available No-Resale License
+Version 1.0
+
+Copyright (c) 2026 Jiaye Liang. All rights reserved except as expressly granted
+below.
+
+This is a custom source-available license, not an open-source license.
+
+1. Scope
+
+"Licensor" means Jiaye Liang. "Materials" means the AI Moder beta instruction
+files, prompt templates, documentation, examples, and other content expressly
+provided by the Licensor under this license. "Adaptations" means translations,
+edits, arrangements, or other derivative versions of the Materials, to the
+extent they incorporate protected content from the Materials.
+
+This license does not cover separately licensed third-party content, separately
+distributed paid editions, or materials not designated as covered by this
+license. Third-party rights and terms remain applicable.
+
+2. Permissions
+
+Subject to the conditions below, the Licensor grants you a worldwide,
+non-exclusive, royalty-free permission to:
+
+a. Download, read, copy, and use the Materials for personal, educational,
+   research, or internal business purposes.
+b. Modify the Materials for those purposes.
+c. Share the Materials and Adaptations free of charge, including through
+   public repositories and forks, under this same license.
+d. Use the Materials with an AI service to create your own work, including
+   work for clients and work that you sell, subject to Section 5.
+
+3. No resale or paid access
+
+Without separate prior written permission from the Licensor, you may not:
+
+a. Sell, resell, rent, lease, or charge a license or access fee for the
+   Materials or Adaptations, in whole or in substantial part.
+b. Include the Materials or Adaptations in a paid prompt pack, course,
+   download, software bundle, membership, subscription, or other paid offering,
+   including by calling them a "free bonus" conditional on a purchase.
+c. Provide the Materials or Adaptations as a material feature of a paid
+   hosted service, chatbot, API, or application offered to third parties,
+   whether or not those third parties can see the underlying instructions.
+d. Rebrand or superficially modify the Materials to evade these restrictions.
+
+Charging for your own professional work or outputs is permitted under
+Sections 2 and 5, provided you are not selling, distributing for payment, or
+providing paid access to the Materials or Adaptations themselves, or operating
+the type of paid service described in Section 3(c).
+
+4. Conditions for sharing
+
+Every shared copy or substantial portion of the Materials or an Adaptation
+must include this license and the copyright notice. Clearly identify any
+modifications and their author, and do not represent a modified version as an
+official AI Moder release. Recipients receive permission from the Licensor
+under this same license; you may not relicense the covered content to remove
+its restrictions or charge recipients for exercising the permissions granted
+here. Merely viewing, copying, or forking on GitHub is permitted under these
+terms and any applicable platform terms.
+
+5. Outputs and independent work
+
+This license does not claim ownership of AI-generated responses or your
+independently created work merely because you used the Materials. You may use,
+share, and sell such work, subject to applicable law and third-party terms.
+However, output that reproduces protected portions of the Materials remains
+subject to this license as to those portions. This license does not grant
+ownership of outputs or rights controlled by an AI provider or other party.
+
+6. Ownership and branding
+
+The Licensor retains ownership of the Materials. No trademark rights or right
+to imply sponsorship, affiliation, or endorsement are granted. You may refer
+to AI Moder truthfully to identify the origin of the Materials and provide
+attribution. Nothing here restricts rights available independently under law,
+including applicable copyright exceptions, or independent development that
+does not copy protected content.
+
+7. Termination
+
+Permissions under this license terminate automatically if you violate its
+terms. On termination, stop activities that require these permissions and
+remove copies you control except where retention is legally required. Rights
+may be reinstated by the Licensor in writing. Your violation does not terminate
+the permissions of recipients who remain in compliance.
+
+8. Disclaimer and limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE MATERIALS ARE PROVIDED
+"AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+NONINFRINGEMENT, ACCURACY, OR COMPATIBILITY. AI MODER DOES NOT GUARANTEE
+CORRECT AI OUTPUT, MODEL BEHAVIOR, OR FITNESS FOR HIGH-STAKES DECISIONS.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE
+LIABLE FOR CLAIMS, DAMAGES, OR OTHER LIABILITY ARISING FROM THE MATERIALS OR
+THEIR USE, WHETHER IN CONTRACT, TORT, OR OTHERWISE. NOTHING EXCLUDES LIABILITY
+THAT CANNOT LAWFULLY BE EXCLUDED.
+
+9. Separate permission and earlier licenses
+
+The Licensor may distribute their own Materials commercially or grant separate
+permissions. These restrictions apply to recipients, not to the Licensor's own
+rights. Request exceptions from the Licensor through the official repository's
+contact channel; no exception is granted unless confirmed in writing.
+
+This license applies to copies designated for release under it. It does not
+withdraw permissions validly granted for earlier copies under another license,
+including MIT, or override rights held by other copyright owners.
